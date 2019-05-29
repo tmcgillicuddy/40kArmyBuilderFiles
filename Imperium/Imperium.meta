@@ -1,4 +1,6 @@
-{
-“armyName” : “Imperium”,
-“factions” : [“Space Marines”]
+{  
+   “armyName”:“Imperium”,
+   “factions”:[  
+      “Space Marines”
+   ]
 }
